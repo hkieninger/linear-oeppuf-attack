@@ -48,7 +48,6 @@ Contains:
   - 480 nm
   - 500 nm
   - 520 nm
-- Lumerical FDE simulation files used to compute effective indices  
 
 If recomputation flags are enabled, these results can be regenerated (long runtime).
 
