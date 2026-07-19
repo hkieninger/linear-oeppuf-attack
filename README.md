@@ -3,8 +3,8 @@
 
 This repository contains the simulation and analysis code used in the manuscript:
 
-> “Security Assessment of Photonic Integrated Circuit-Based Physically Unclonable Functions”  
-> Submitted to *Optics Express* (under review).
+> **“Security Assessment of Photonic Integrated Circuit-Based Physically Unclonable Functions”**  
+> Published in *Optics Express* (2026). [https://doi.org/10.1364/OE.597136](https://doi.org/10.1364/OE.597136)
 
 The purpose of this repository is to ensure reproducibility of the results reported in the paper.
 
@@ -86,18 +86,32 @@ Exact package versions are listed in `requirements.txt`.
 
 ## Versioning and Archiving
 
-A release corresponding to the submitted manuscript will be archived via Zenodo to obtain a DOI.
-
-The DOI will be added here upon publication.
+A release corresponding to the published manuscript is permanently archived on Zenodo:  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18853193.svg)](https://doi.org/10.5281/zenodo.18853193)
 
 ---
 
-## Citation (Pre-Publication)
+## Citation
 
-If referencing this repository during review:
+If you use this code or data in your research, please cite the official *Optics Express* paper:
 
-```
-Hans Kieninger, “Security Assessment of Photonic Integrated Circuit-Based Physically Unclonable Functions,” submitted to Optics Express, 2026.
+### Paper Citation
+Hans Kieninger, Paul Jimenez, Fabio Pavanello, David Navarro, Thach Nguyen, Arnan Mitchell, and Cédric Marchand, "Security assessment of photonic integrated circuit-based physically unclonable functions," *Opt. Express* 34, 27621-27636 (2026). https://doi.org/10.1364/OE.597136
+
+```bibtex
+@article{Kieninger:26,
+author = {Hans Kieninger and Paul Jimenez and Fabio Pavanello and David Navarro and Thach Nguyen and Arnan Mitchell and C\'{e}dric Marchand},
+journal = {Opt. Express},
+number = {15},
+pages = {27621--27636},
+publisher = {Optica Publishing Group},
+title = {Security assessment of photonic integrated circuit-based physically unclonable functions},
+volume = {34},
+month = {Jul},
+year = {2026},
+url = {https://opg.optica.org/oe/abstract.cfm?URI=oe-34-15-27621},
+doi = {10.1364/OE.597136},
+}
 ```
 
 ---
